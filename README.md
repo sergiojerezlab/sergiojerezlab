@@ -6,65 +6,83 @@
 
 
 
-# 👋 Hola, soy Sergio Jerez
+# Hola, soy Sergio Jerez
 
-### Ingeniero de Software | Fundador de Proyectos Tecnológicos
+<table>
+<tr>
+<td width="65%" valign="top">
 
-Soy Ingeniero de Software y fundador de proyectos tecnológicos. Comparto el desarrollo de proyectos personales y empresariales, casos reales, marketing digital, inteligencia artificial, programación, tutoriales y el detrás de cámaras de cómo construyo productos y negocios digitales.
+## Conoce sobre mí
+
+Soy **Ingeniero de Software** y fundador de proyectos tecnológicos. Comparto el desarrollo de proyectos personales y empresariales, casos reales, marketing digital, inteligencia artificial, programación, tutoriales y el detrás de cámaras de cómo construyo productos y negocios digitales.
+
+### Contenido
+
+- **Proyectos de Software:** Aplicaciones, sistemas y herramientas desarrolladas con tecnologías modernas.
+- **Soluciones Digitales:** Productos creados para resolver necesidades reales mediante tecnología.
+- **Marketing Digital:** Estrategias y recursos para fortalecer la presencia digital de proyectos y marcas.
+- **Inteligencia Artificial:** Automatización, IA aplicada y nuevas tecnologías.
+- **Tutoriales:** Guías, ejemplos y contenido sobre programación y desarrollo de software.
+- **Proceso de Creación:** Desde la idea inicial hasta el desarrollo y la mejora continua de cada proyecto.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="TU_IMAGEN.png" width="300" alt="Sergio Jerez">
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Conecta conmigo
+## Formación Académica
 
-<!-- Redes Sociales -->
+- **Universidad Tecnológica del Oriente**
+  - Ingeniería de Software *(Promoción 2026)*
+
+- **SENA – Centro Industrial y de Aviación**
+  - *(Agrega aquí el nombre del programa)* *(Promoción 2025)*
+
+- **Institución Educativa Colmercedes – Lebrija**
+  - Bachiller Académico *(Promoción 2022)*
+
+---
+
+## Conecta conmigo
+
 <div align="center">
-  <a href="http://portafolio-sergiojerez.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://wa.me/573018593871" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-Social-000000?logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Social-E4405F?logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Social-1877F2?logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://github.com/joshuathadi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repositorios-121011?logo=github&logoColor=white" />
-  </a>
+
+<a href="http://portafolio-sergiojerez.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://wa.me/573018593871" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://www.tiktok.com/@sergiojerezlab" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-Social-000000?logo=tiktok&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/sergiojerezlab" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Social-E4405F?logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@sergiojerezlab" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/sergiojerezlab" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Social-1877F2?logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://github.com/joshuathadi" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Repositorios-121011?logo=github&logoColor=white" />
+</a>
+
 </div>
-
----
-
-## 🚀 Contenido
-
-- 💻 **Proyectos de Software** — Aplicaciones, sistemas y herramientas desarrolladas con tecnologías modernas.
-- 💡 **Soluciones Digitales** — Productos creados para resolver necesidades reales mediante tecnología.
-- 📈 **Marketing Digital** — Estrategias y recursos para fortalecer proyectos y marcas.
-- 🤖 **Inteligencia Artificial** — Automatización, IA aplicada y nuevas tecnologías.
-- 📚 **Tutoriales** — Guías y contenido sobre programación y desarrollo de software.
-- 🚀 **Proceso de Creación** — Desde la idea hasta el desarrollo y la mejora continua de cada proyecto.
-
----
-
-## 🎓 Formación Académica
-
-🎓 **Universidad Tecnológica del Oriente**  
-*Ingeniería de Software* · Promoción 2026
-
-🏭 **SENA – Centro Industrial y de Aviación**  
-*Técnico/Tecnólogo* · Promoción 2025 *(ajusta el programa si deseas especificarlo)*
-
-🏫 **Institución Educativa Colmercedes (Lebrija)**  
-*Bachiller Académico* · Promoción 2022
-
 
 
 
