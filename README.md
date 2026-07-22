@@ -22,38 +22,20 @@
   <a href="https://www.facebook.com/sergiojerezlab" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Social-1877F2?logo=facebook&logoColor=white" />
   </a>
-  <a href="https://github.com/joshuathadi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Repositorios-121011?logo=github&logoColor=white" />
-  </a>
 </p>
 
 ## Acerca de mí
 
-<img align="right" width="300" src="Banner.png" alt="Sergio Jerez"/>
+<img align="right" width="800" src="Banner.png" alt="Sergio Jerez"/>
 
 Soy **Ingeniero de Software** y fundador de proyectos tecnológicos. Comparto el desarrollo de proyectos personales y empresariales, casos reales, marketing digital, inteligencia artificial, programación, tutoriales y el detrás de cámaras de cómo construyo productos y negocios digitales.
 
-### Lo que comparto
+Universidad Tecnológica del Oriente - Ingeniería de Software
+SENA - Tecnólogo en Análisis y Desarrollo de Software
+Institución Educativa Colmercedes - Bachiller Académico
 
-- **Proyectos de Software:** Aplicaciones, sistemas y herramientas desarrolladas con tecnologías modernas.
-- **Soluciones Digitales:** Productos creados para resolver necesidades reales mediante tecnología.
-- **Marketing Digital:** Estrategias y recursos para fortalecer la presencia digital de proyectos y marcas.
-- **Inteligencia Artificial:** Automatización, IA aplicada y nuevas tecnologías.
-- **Tutoriales:** Guías, ejemplos y contenido sobre programación y desarrollo de software.
-- **Proceso de Creación:** Desde la idea inicial hasta el desarrollo y la mejora continua de cada proyecto.
 
 <br clear="right"/>
-
-## Formación Académica
-
-- **Universidad Tecnológica del Oriente**
-  - Ingeniería de Software *(Promoción 2026)*
-
-- **SENA – Centro Industrial y de Aviación**
-  - Tecnólogo en Análisis y Desarrollo de Software *(Promoción 2025)*
-
-- **Institución Educativa Colmercedes – Lebrija**
-  - Bachiller Académico *(Promoción 2022)*
 
 
 <h3 align="center">Tecnologías y Herramientas</h3>
