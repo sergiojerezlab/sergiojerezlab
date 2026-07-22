@@ -28,6 +28,8 @@
 
 <img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 
+
+
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
@@ -49,94 +51,70 @@
 <br>
 <br>
 
-<!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
-</div>
-
-<br>
 
 
-
-
-<!-- Best Repositories -->
-<div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
-  <p align="center">
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
-<a href="https://github.com/JoshuaThadi/Void-OSE">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
-<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
-<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
-<a href="https://github.com/JoshuaThadi/PixelVault">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
-<a href="https://github.com/JoshuaThadi/My-Projects">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
-  </p>
-</div>
-
-
-<!-- Tech Stack -->
-<h3 align="center">💻 Tech Stack</h3>
+<!-- tecnologia y herramientas -->
+<h3 align="center">Tecnologías y Herramientas</h3>
 <div align="center">
 
-<!-- Languages -->
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"></a>
+<a href="https://www.json.org/" target="_blank"><img src="https://img.shields.io/badge/json-%23292929.svg?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
+<a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white"></a>
+<a href="https://www.speakeasy.com/" target="_blank"><img src="https://img.shields.io/badge/Speakeasy-000000?style=for-the-badge&logo=speakeasy&logoColor=white"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.prisma.io" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"></a>
+<a href="https://supabase.com" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"></a>
+<a href="https://github.com/hive-db/hive" target="_blank"><img src="https://img.shields.io/badge/Hive-FFB100?style=for-the-badge&logo=hive&logoColor=white"></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"></a>
+<a href="https://riverpod.dev/" target="_blank"><img src="https://img.shields.io/badge/Riverpod-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>
+<a href="https://pub.dev/packages/slang" target="_blank"><img src="https://img.shields.io/badge/Slang_i18n-Blue?style=for-the-badge"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="https://m3.material.io/" target="_blank"><img src="https://img.shields.io/badge/Material_Design-%23757575.svg?style=for-the-badge&logo=material-design&logoColor=white"></a>
+<a href="https://fonts.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white"></a>
+<a href="https://fonts.google.com/icons" target="_blank"><img src="https://img.shields.io/badge/Google_Icons-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+<a href="https://lucide.dev/" target="_blank"><img src="https://img.shields.io/badge/Lucide_Icons-%23F56565.svg?style=for-the-badge&logo=lucide&logoColor=white"></a>
+<a href="https://greensock.com/gsap/" target="_blank"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"></a>
+<a href="https://lenis.studiofreight.com/" target="_blank"><img src="https://img.shields.io/badge/Lenis-Black?style=for-the-badge"></a>
+<a href="https://www.framer.com/motion/" target="_blank"><img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white"></a>
+<a href="https://developers.google.com/maps" target="_blank"><img src="https://img.shields.io/badge/Google_Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white"></a>
+<a href="https://www.zegocloud.com/" target="_blank"><img src="https://img.shields.io/badge/Zegocloud-0066FF?style=for-the-badge"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-<a href="https://www.prisma.io" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
-<a href="https://supabase.com" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
-<a href="https://clerk.com" target="_blank">
-    <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" /></a>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-<a href="https://scipy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"></a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-<a href="https://plotly.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
-<a href="https://keras.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white"></a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"></a>
-<a href="https://www.anaconda.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
-
-
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+<a href="https://www.framer.com/" target="_blank"><img src="https://img.shields.io/badge/Framer-Black?style=for-the-badge&logo=framer&logoColor=white"></a>
+<a href="https://flame-engine.org/" target="_blank"><img src="https://img.shields.io/badge/Flame_Engine-F1573B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://www.hostinger.com/" target="_blank"><img src="https://img.shields.io/badge/Hostinger-%23673AB7.svg?style=for-the-badge&logo=hostinger&logoColor=white"></a>
+<a href="https://search.google.com/search-console" target="_blank"><img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
+<a href="https://play.google.com/console" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Console-%23414141.svg?style=for-the-badge&logo=google-play&logoColor=white"></a>
+<a href="https://developer.huawei.com/consumer/en/console/" target="_blank"><img src="https://img.shields.io/badge/AppGallery_Connect-%23CF0A2C.svg?style=for-the-badge&logo=huawei&logoColor=white"></a>
 
 </div>
-
-</div>
-
 
 
 <!-- contacto -->
 <h3 align="center">Contactarme</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
+  <a href="https://wa.me/573018593871" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Contáctame_por_WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" />
   </a>
 </p>
 
