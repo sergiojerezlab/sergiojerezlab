@@ -4,7 +4,6 @@
 </p>
 
 <!-- Redes / Badges debajo del banner -->
-<!-- Redes / Badges debajo del banner (sin espacios para evitar la línea azul) -->
 <p align="center"><a href="http://portafolio-sergiojerez.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" /></a> <a href="https://wa.me/573018593871" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?logo=whatsapp&logoColor=white" /></a> <a href="https://www.tiktok.com/@sergiojerezlab" target="_blank"><img src="https://img.shields.io/badge/TikTok-Social-000000?logo=tiktok&logoColor=white" /></a> <a href="https://www.instagram.com/sergiojerezlab" target="_blank"><img src="https://img.shields.io/badge/Instagram-Social-E4405F?logo=instagram&logoColor=white" /></a> <a href="https://www.youtube.com/@sergiojerezlab" target="_blank"><img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white" /></a> <a href="https://www.facebook.com/sergiojerezlab" target="_blank"><img src="https://img.shields.io/badge/Facebook-Social-1877F2?logo=facebook&logoColor=white" /></a></p>
 
 <h2 align="center">Acerca de mí</h2>
@@ -23,9 +22,13 @@ Soy <strong>Ingeniero de Software</strong> y fundador de proyectos tecnológicos
 
 <br clear="right"/>
 
-<h3 align="center">Tecnologías y Herramientas</h3>
-<div align="center">
 
+<h2 align="center">Stack Tecnológico</h2>
+<p align="center">
+Tecnologías, frameworks, herramientas y servicios que he utilizado en el desarrollo de proyectos personales y empresariales.
+</p>
+
+<div align="center">
 <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?logo=javascript&logoColor=black">
@@ -75,10 +78,9 @@ Soy <strong>Ingeniero de Software</strong> y fundador de proyectos tecnológicos
 <img src="https://img.shields.io/badge/Search_Console-SEO-4285F4?logo=google&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Play_Console-Publish-414141?logo=google-play&logoColor=white">
 <img src="https://img.shields.io/badge/AppGallery_Connect-Publish-CF0A2C?logo=huawei&logoColor=white">
-
 </div>
 
-<br clear="right"/>
+<br>
 
 <!-- img footer -->
 <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
