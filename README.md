@@ -3,6 +3,7 @@
   <img src="Banner.png" width="100%" alt="Banner">
 </p>
 
+<!-- Redes / Badges debajo del banner (como en la referencia) -->
 <p align="center">
   <a href="http://portafolio-sergiojerez.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" />
@@ -24,15 +25,21 @@
   </a>
 </p>
 
-## Acerca de mí
+<h2 align="center">👤 Acerca de mí</h2>
 
-<img align="right" width="300" height="500" src="Banner.png" alt="Sergio Jerez"/>
+<img align="right" width="350" src="Banner.png" alt="Sergio Jerez"/>
 
 Soy **Ingeniero de Software** y fundador de proyectos tecnológicos. Comparto el desarrollo de proyectos personales y empresariales, casos reales, marketing digital, inteligencia artificial, programación, tutoriales y el detrás de cámaras de cómo construyo productos y negocios digitales.
 
-Universidad Tecnológica del Oriente - Ingeniería de Software
-SENA - Tecnólogo en Análisis y Desarrollo de Software
-Institución Educativa Colmercedes - Bachiller Académico
+<br>
+
+- 🎓 **Universidad Tecnológica del Oriente** - Ingeniería de Software
+- 🎓 **SENA** - Tecnólogo en Análisis y Desarrollo de Software
+- 🏫 **Institución Educativa Colmercedes** - Bachiller Académico
+
+<br clear="right"/>
+
+
 
 
 <br clear="right"/>
