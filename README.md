@@ -4,28 +4,10 @@
 </p>
 
 <!-- Redes / Badges debajo del banner -->
-<p align="center">
-  <a href="http://portafolio-sergiojerez.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://wa.me/573018593871" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-Social-000000?logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Social-E4405F?logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Social-1877F2?logo=facebook&logoColor=white" />
-  </a>
-</p>
+<!-- Redes / Badges debajo del banner (sin espacios para evitar la línea azul) -->
+<p align="center"><a href="http://portafolio-sergiojerez.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" /></a> <a href="https://wa.me/573018593871" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?logo=whatsapp&logoColor=white" /></a> <a href="https://www.tiktok.com/@sergiojerezlab" target="_blank"><img src="https://img.shields.io/badge/TikTok-Social-000000?logo=tiktok&logoColor=white" /></a> <a href="https://www.instagram.com/sergiojerezlab" target="_blank"><img src="https://img.shields.io/badge/Instagram-Social-E4405F?logo=instagram&logoColor=white" /></a> <a href="https://www.youtube.com/@sergiojerezlab" target="_blank"><img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white" /></a> <a href="https://www.facebook.com/sergiojerezlab" target="_blank"><img src="https://img.shields.io/badge/Facebook-Social-1877F2?logo=facebook&logoColor=white" /></a></p>
 
-<h2 align="center">👤 Acerca de mí</h2>
+<h2 align="center">Acerca de mí</h2>
 
 <img align="right" width="350" src="Banner.png" alt="Sergio Jerez"/>
 
