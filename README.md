@@ -3,61 +3,68 @@
   <img width="100%" src="Banner.png" alt="Banner" />
 </a>
 
+
+
+
+# 👋 Hola, soy Sergio Jerez
+
+### Ingeniero de Software | Fundador de Proyectos Tecnológicos
+
+Soy Ingeniero de Software y fundador de proyectos tecnológicos. Comparto el desarrollo de proyectos personales y empresariales, casos reales, marketing digital, inteligencia artificial, programación, tutoriales y el detrás de cámaras de cómo construyo productos y negocios digitales.
+
+---
+
+## 🌐 Conecta conmigo
+
 <!-- Redes Sociales -->
 <div align="center">
-  <!-- Portafolio -->
   <a href="http://portafolio-sergiojerez.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" />
   </a>
-  <!-- WhatsApp -->
   <a href="https://wa.me/573018593871" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?logo=whatsapp&logoColor=white" />
   </a>
-  <!-- TikTok -->
   <a href="https://www.tiktok.com/@sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-Social-000000?logo=tiktok&logoColor=white" />
   </a>
-  <!-- Instagram -->
   <a href="https://www.instagram.com/sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Social-E4405F?logo=instagram&logoColor=white" />
   </a>
-  <!-- YouTube -->
   <a href="https://www.youtube.com/@sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white" />
   </a>
-  <!-- Facebook -->
   <a href="https://www.facebook.com/sergiojerezlab" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-Social-1877F2?logo=facebook&logoColor=white" />
   </a>
-  <!-- GitHub -->
   <a href="https://github.com/joshuathadi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Repositorios-121011?logo=github&logoColor=white" />
   </a>
 </div>
 
+---
 
+## 🚀 Contenido
 
+- 💻 **Proyectos de Software** — Aplicaciones, sistemas y herramientas desarrolladas con tecnologías modernas.
+- 💡 **Soluciones Digitales** — Productos creados para resolver necesidades reales mediante tecnología.
+- 📈 **Marketing Digital** — Estrategias y recursos para fortalecer proyectos y marcas.
+- 🤖 **Inteligencia Artificial** — Automatización, IA aplicada y nuevas tecnologías.
+- 📚 **Tutoriales** — Guías y contenido sobre programación y desarrollo de software.
+- 🚀 **Proceso de Creación** — Desde la idea hasta el desarrollo y la mejora continua de cada proyecto.
 
-<!-- About Me -->
-<h3 align="left">💫 About Me</h3>
-<p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
-</p>
+---
 
-<h3 align="left">🧲 Drop me a line:</h3>
-<div align="left">
-  <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
-</div>
+## 🎓 Formación Académica
 
-<br>
-<br>
+🎓 **Universidad Tecnológica del Oriente**  
+*Ingeniería de Software* · Promoción 2026
+
+🏭 **SENA – Centro Industrial y de Aviación**  
+*Técnico/Tecnólogo* · Promoción 2025 *(ajusta el programa si deseas especificarlo)*
+
+🏫 **Institución Educativa Colmercedes (Lebrija)**  
+*Bachiller Académico* · Promoción 2022
+
 
 
 
