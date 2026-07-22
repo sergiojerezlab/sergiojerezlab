@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MasterJudah/MasterJudah/main/banner.png" alt="Header Image with Tech Setup" width="100%" />
+  <img src="https://raw.githubusercontent.com/serjiojerezlab/serjiojerezlab/main/banner.png" alt="Header Image" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
   <h1>
-    <a href="https://masterjudah.com">MasterJudah here</a> 🔥 !
+    Sergio Jerez Lab 👋 !
   </h1>
 </div>
 
@@ -15,7 +15,7 @@
 <br />
 
 <div align="center">
-  <h2>Namaste 🙏 I'm Joshua Thadi</h2>
+  <h2>¡Hola! Bienvenido a mi perfil</h2>
 </div>
 
 <br />
@@ -27,44 +27,33 @@
 <br />
 
 <div>
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div>
-      <!-- Lista de viñetas con iconos de Emoji -->
-      <ul>
-        <li>
-          🌟 Began the Journey with Software Development in
-          <strong>ASP.NET MVC</strong>
-        </li>
-        <li>
-          🌔 I work on Front-end development and web designing when i am
-          Bored while focusing on Data Science and AI/ML.
-        </li>
-        <li>
-          🎓 I am currently pursuing a degree in Computer Science.
-        </li>
-        <li>
-          🖲 I worked on .Net Framework and Hands on experience in Full
-          Stack.
-        </li>
-        <li>
-          💬 Ask me about <strong>Microsoft .Net framework</strong>, <strong>Full Stack Development</strong>, <strong>Python</strong>.
-        </li>
-        <li>
-          ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation.
-        </li>
-        <li>
-          ✨ I only like perfection.
-        </li>
-      </ul>
-    </div>
-    <div>
-      <!-- Imagen de la persona de espaldas -->
-      <img src="https://github.com/MasterJudah/MasterJudah/blob/main/coder_illustration.png?raw=true" alt="Illustration of a developer" width="400" />
-    </div>
+  <div>
+    <!-- Lista de viñetas con información -->
+    <ul>
+      <li>
+        🌟 Apasionado por la tecnología, el marketing y el desarrollo de proyectos digitales.
+      </li>
+      <li>
+        💻 Creando soluciones innovadoras y optimizando procesos digitales.
+      </li>
+      <li>
+        🚀 Enfocado en aprender y construir herramientas de alto impacto.
+      </li>
+    </ul>
   </div>
 </div>
 
 <br />
+<br />
+
+## 📊 Estadísticas y Actividad
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=serjiojerezlab&show_icons=true&theme=react-dark&count_private=true" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=serjiojerezlab&layout=compact&theme=react-dark" alt="Top Languages" />
+</div>
+
 <br />
 <br />
 <hr />
@@ -75,18 +64,11 @@
   <h4>🌟 Follow Me on:</h4>
   <br />
   <p>
-    <a href="{Enlace a tu perfil de Pinterest}">
-      <img src="https://img.shields.io/badge/PINTEREST-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
-    </a>
-    <a href="mailto:{Tu dirección de correo}">
+    <a href="mailto:tu-correo@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="{Enlace a tu perfil de LinkedIn}">
+    <a href="https://linkedin.com">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 </div>
-
-
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=serjiojerezlab&theme=react-dark)](https://github.com/ryo-ma/github-readme-activity-graph)
