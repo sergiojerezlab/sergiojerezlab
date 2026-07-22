@@ -61,5 +61,5 @@
 
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.s3.uzh.ch/api?username=serjiojerezlab&theme=nightOwl" alt="Isometric Commit Calendar" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serjiojerezlab&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
