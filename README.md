@@ -61,60 +61,58 @@
 
 
 
-<!-- tecnologia y herramientas -->
 <h3 align="center">Tecnologías y Herramientas</h3>
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-<a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
-<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"></a>
-<a href="https://www.json.org/" target="_blank"><img src="https://img.shields.io/badge/json-%23292929.svg?style=for-the-badge&logo=json&logoColor=white"></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
-<a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white"></a>
-<a href="https://www.speakeasy.com/" target="_blank"><img src="https://img.shields.io/badge/Speakeasy-000000?style=for-the-badge&logo=speakeasy&logoColor=white"></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://www.prisma.io" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"></a>
-<a href="https://supabase.com" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"></a>
-<a href="https://github.com/hive-db/hive" target="_blank"><img src="https://img.shields.io/badge/Hive-FFB100?style=for-the-badge&logo=hive&logoColor=white"></a>
-<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"></a>
-<a href="https://riverpod.dev/" target="_blank"><img src="https://img.shields.io/badge/Riverpod-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"></a>
-<a href="https://pub.dev/packages/slang" target="_blank"><img src="https://img.shields.io/badge/Slang_i18n-Blue?style=for-the-badge"></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="https://m3.material.io/" target="_blank"><img src="https://img.shields.io/badge/Material_Design-%23757575.svg?style=for-the-badge&logo=material-design&logoColor=white"></a>
-<a href="https://fonts.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white"></a>
-<a href="https://fonts.google.com/icons" target="_blank"><img src="https://img.shields.io/badge/Google_Icons-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="https://lucide.dev/" target="_blank"><img src="https://img.shields.io/badge/Lucide_Icons-%23F56565.svg?style=for-the-badge&logo=lucide&logoColor=white"></a>
-<a href="https://greensock.com/gsap/" target="_blank"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"></a>
-<a href="https://lenis.studiofreight.com/" target="_blank"><img src="https://img.shields.io/badge/Lenis-Black?style=for-the-badge"></a>
-<a href="https://www.framer.com/motion/" target="_blank"><img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white"></a>
-<a href="https://developers.google.com/maps" target="_blank"><img src="https://img.shields.io/badge/Google_Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white"></a>
-<a href="https://www.zegocloud.com/" target="_blank"><img src="https://img.shields.io/badge/Zegocloud-0066FF?style=for-the-badge"></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-<a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-<a href="https://www.framer.com/" target="_blank"><img src="https://img.shields.io/badge/Framer-Black?style=for-the-badge&logo=framer&logoColor=white"></a>
-<a href="https://flame-engine.org/" target="_blank"><img src="https://img.shields.io/badge/Flame_Engine-F1573B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://www.hostinger.com/" target="_blank"><img src="https://img.shields.io/badge/Hostinger-%23673AB7.svg?style=for-the-badge&logo=hostinger&logoColor=white"></a>
-<a href="https://search.google.com/search-console" target="_blank"><img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
-<a href="https://play.google.com/console" target="_blank"><img src="https://img.shields.io/badge/Google_Play_Console-%23414141.svg?style=for-the-badge&logo=google-play&logoColor=white"></a>
-<a href="https://developer.huawei.com/consumer/en/console/" target="_blank"><img src="https://img.shields.io/badge/AppGallery_Connect-%23CF0A2C.svg?style=for-the-badge&logo=huawei&logoColor=white"></a>
-
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Markup-000000.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Styling-007ACC.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Logic-333333.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Types-1F2937.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/OOP-232F3E.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/Mobile-02569B.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/Native-555555.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"><img src="https://img.shields.io/badge/Apple-222222.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/json-%23292929.svg?style=for-the-badge&logo=json&logoColor=white"><img src="https://img.shields.io/badge/Data-444444.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Mobile-1E1E1E.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/Framework-007ACC.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/Crossplatform-02569B.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Runtime-333333.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/API-222222.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white"><img src="https://img.shields.io/badge/Realtime-007ACC.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Speakeasy-000000?style=for-the-badge&logo=speakeasy&logoColor=white"><img src="https://img.shields.io/badge/SDK-2D3748.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/Database-13AA52.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/SQL-00618A.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"><img src="https://img.shields.io/badge/ORM-1A202C.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"><img src="https://img.shields.io/badge/BaaS-1C1C1C.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"><img src="https://img.shields.io/badge/Backend-F58220.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Hive-FFB100?style=for-the-badge&logo=hive&logoColor=white"><img src="https://img.shields.io/badge/NoSQL-222222.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/State-444444.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Riverpod-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/State-0175C2.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Slang_i18n-Blue?style=for-the-badge"><img src="https://img.shields.io/badge/Locales-333333.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/Styling-007ACC.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/UI-563D7C.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Material_Design-%23757575.svg?style=for-the-badge&logo=material-design&logoColor=white"><img src="https://img.shields.io/badge/Design-333333.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white"><img src="https://img.shields.io/badge/Typography-333333.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Icons-4285F4?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/Icons-222222.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Lucide_Icons-%23F56565.svg?style=for-the-badge&logo=lucide&logoColor=white"><img src="https://img.shields.io/badge/Icons-C53030.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"><img src="https://img.shields.io/badge/Animation-222222.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Lenis-Black?style=for-the-badge"><img src="https://img.shields.io/badge/Scroll-333333.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white"><img src="https://img.shields.io/badge/Motion-0055FF.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white"><img src="https://img.shields.io/badge/Maps-1A73E8.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Zegocloud-0066FF?style=for-the-badge"><img src="https://img.shields.io/badge/Video-0044CC.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/VCS-990000.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Repo-222222.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/API-CC5500.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/Editor-003366.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"><img src="https://img.shields.io/badge/IDE-0B6623.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/UI/UX-A22A00.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Framer-Black?style=for-the-badge&logo=framer&logoColor=white"><img src="https://img.shields.io/badge/Design-111111.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Flame_Engine-F1573B?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/GameDEV-C0392B.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"><img src="https://img.shields.io/badge/Deployment-222222.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Hostinger-%23673AB7.svg?style=for-the-badge&logo=hostinger&logoColor=white"><img src="https://img.shields.io/badge/Hosting-4A148C.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/SEO-1A73E8.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Play_Console-%23414141.svg?style=for-the-badge&logo=google-play&logoColor=white"><img src="https://img.shields.io/badge/Publish-222222.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/AppGallery_Connect-%23CF0A2C.svg?style=for-the-badge&logo=huawei&logoColor=white"><img src="https://img.shields.io/badge/Publish-8B0000.svg?style=for-the-badge&logoColor=white">
 </div>
 
 <!-- img footer -->
