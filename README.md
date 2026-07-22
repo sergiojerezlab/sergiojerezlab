@@ -3,12 +3,6 @@
   <img src="Banner.png" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">Hola, soy Sergio Jerez</h1>
-
-<p align="center">
-Ingeniero de Software • Fundador de Proyectos Tecnológicos
-</p>
-
 <p align="center">
   <a href="http://portafolio-sergiojerez.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" />
@@ -60,7 +54,6 @@ Soy **Ingeniero de Software** y fundador de proyectos tecnológicos. Comparto el
 
 - **Institución Educativa Colmercedes – Lebrija**
   - Bachiller Académico *(Promoción 2022)*
-
 
 
 <h3 align="center">Tecnologías y Herramientas</h3>
