@@ -41,11 +41,6 @@ Soy <strong>Ingeniero de Software</strong> y fundador de proyectos tecnológicos
 
 <br clear="right"/>
 
-
-
-<br clear="right"/>
-
-
 <h3 align="center">Tecnologías y Herramientas</h3>
 <div align="center">
 
@@ -100,6 +95,8 @@ Soy <strong>Ingeniero de Software</strong> y fundador de proyectos tecnológicos
 <img src="https://img.shields.io/badge/AppGallery_Connect-Publish-CF0A2C?logo=huawei&logoColor=white">
 
 </div>
+
+<br clear="right"/>
 
 <!-- img footer -->
 <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
