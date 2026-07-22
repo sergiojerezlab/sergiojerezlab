@@ -64,55 +64,56 @@
 <h3 align="center">Tecnologías y Herramientas</h3>
 <div align="center">
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Markup-000000.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/Styling-007ACC.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Logic-333333.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Types-1F2937.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/OOP-232F3E.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"><img src="https://img.shields.io/badge/Mobile-02569B.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/Native-555555.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"><img src="https://img.shields.io/badge/Apple-222222.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/json-%23292929.svg?style=for-the-badge&logo=json&logoColor=white"><img src="https://img.shields.io/badge/Data-444444.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/Mobile-1E1E1E.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"><img src="https://img.shields.io/badge/Framework-007ACC.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/Crossplatform-02569B.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/Runtime-333333.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/API-222222.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white"><img src="https://img.shields.io/badge/Realtime-007ACC.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Speakeasy-000000?style=for-the-badge&logo=speakeasy&logoColor=white"><img src="https://img.shields.io/badge/SDK-2D3748.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/Database-13AA52.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/SQL-00618A.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"><img src="https://img.shields.io/badge/ORM-1A202C.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"><img src="https://img.shields.io/badge/BaaS-1C1C1C.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"><img src="https://img.shields.io/badge/Backend-F58220.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Hive-FFB100?style=for-the-badge&logo=hive&logoColor=white"><img src="https://img.shields.io/badge/NoSQL-222222.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/State-444444.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Riverpod-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/State-0175C2.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Slang_i18n-Blue?style=for-the-badge"><img src="https://img.shields.io/badge/Locales-333333.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/Styling-007ACC.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/UI-563D7C.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Material_Design-%23757575.svg?style=for-the-badge&logo=material-design&logoColor=white"><img src="https://img.shields.io/badge/Design-333333.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google-fonts&logoColor=white"><img src="https://img.shields.io/badge/Typography-333333.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Icons-4285F4?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/Icons-222222.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Lucide_Icons-%23F56565.svg?style=for-the-badge&logo=lucide&logoColor=white"><img src="https://img.shields.io/badge/Icons-C53030.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"><img src="https://img.shields.io/badge/Animation-222222.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Lenis-Black?style=for-the-badge"><img src="https://img.shields.io/badge/Scroll-333333.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white"><img src="https://img.shields.io/badge/Motion-0055FF.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white"><img src="https://img.shields.io/badge/Maps-1A73E8.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Zegocloud-0066FF?style=for-the-badge"><img src="https://img.shields.io/badge/Video-0044CC.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/VCS-990000.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Repo-222222.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/API-CC5500.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"><img src="https://img.shields.io/badge/Editor-003366.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"><img src="https://img.shields.io/badge/IDE-0B6623.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/UI/UX-A22A00.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Framer-Black?style=for-the-badge&logo=framer&logoColor=white"><img src="https://img.shields.io/badge/Design-111111.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Flame_Engine-F1573B?style=for-the-badge&logo=flutter&logoColor=white"><img src="https://img.shields.io/badge/GameDEV-C0392B.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"><img src="https://img.shields.io/badge/Deployment-222222.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Hostinger-%23673AB7.svg?style=for-the-badge&logo=hostinger&logoColor=white"><img src="https://img.shields.io/badge/Hosting-4A148C.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white"><img src="https://img.shields.io/badge/SEO-1A73E8.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Play_Console-%23414141.svg?style=for-the-badge&logo=google-play&logoColor=white"><img src="https://img.shields.io/badge/Publish-222222.svg?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/AppGallery_Connect-%23CF0A2C.svg?style=for-the-badge&logo=huawei&logoColor=white"><img src="https://img.shields.io/badge/Publish-8B0000.svg?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-Logic-007ACC?logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-Backend-ED8B00?logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-Mobile-0175C2?logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-Native-7F52FF?logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-Apple-FA7343?logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/JSON-Data-292929?logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/React_Native-Mobile-20232a?logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-Framework-000000?logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-Crossplatform-02569B?logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-Runtime-6DA55F?logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-API-404d59?logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Socket.io-Realtime-000000?logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/Speakeasy-SDK-000000?logo=speakeasy&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-Database-4ea94b?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-SQL-4479A1?logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-BaaS-3ECF8E?logo=supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-Backend-039BE5?logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/Hive-NoSQL-FFB100?logo=hive&logoColor=white">
+<img src="https://img.shields.io/badge/Zustand-State-20232a?logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Riverpod-State-02569B?logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Slang_i18n-Locales-0055FF?logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-Styling-38B2AC?logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-UI-8511FA?logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/Material_Design-Design-757575?logo=material-design&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Fonts-Typography-4285F4?logo=google-fonts&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Icons-Icons-4285F4?logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Lucide_React-Icons-F56565?logo=lucide&logoColor=white">
+<img src="https://img.shields.io/badge/GSAP-Animation-88CE02?logo=greensock&logoColor=white">
+<img src="https://img.shields.io/badge/Lenis-Scroll-000000?logoColor=white">
+<img src="https://img.shields.io/badge/Framer_Motion-Motion-000000?logo=framer&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Maps-Maps-4285F4?logo=google-maps&logoColor=white">
+<img src="https://img.shields.io/badge/Zegocloud-Video-0066FF?logoColor=white">
+<img src="https://img.shields.io/badge/Git-VCS-F05033?logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Repo-121011?logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-API-FF6C37?logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-IDE-3DDC84?logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-UI/UX-F24E1E?logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Framer-Design-000000?logo=framer&logoColor=white">
+<img src="https://img.shields.io/badge/Flame_Engine-GameDEV-F1573B?logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-Deployment-000000?logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Hostinger-Hosting-673AB7?logo=hostinger&logoColor=white">
+<img src="https://img.shields.io/badge/Search_Console-SEO-4285F4?logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Play_Console-Publish-414141?logo=google-play&logoColor=white">
+<img src="https://img.shields.io/badge/AppGallery_Connect-Publish-CF0A2C?logo=huawei&logoColor=white">
+
 </div>
 
 <!-- img footer -->
