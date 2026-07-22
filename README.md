@@ -1,57 +1,60 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , I'm Rossyn</h2>
-
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+%22Crafting+Code%2C+Building+Dreams%22;+%F0%9F%92%BB+Welcome+to+My+GitHub+Universe!)](https://git.io/typing-svg)
-</p>
-
-
-
-<img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
-
-- 👨‍💻 Building Android apps that help people every day.
-- 📖 Focused on learning and improving
-- 🛠️ Enjoy working on a variety of projects
-- 👥 Open to collaboration
-- 🔧 Offering services for Android Apps
-
-
-<div align="start">
-
-  ![](https://komarev.com/ghpvc/?username=AndroidWithRossyn&style=flat&color=brightgreen)
-
-</div>
-
-<div align="start">
-  
-<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitrajkhorwal/) 
-
-</div>
-
-
-
 <div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndroidWithRossyn&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndroidWithRossyn&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndroidWithRossyn&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndroidWithRossyn&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndroidWithRossyn&theme=github_dark)
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=AndroidWithRossyn&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=androidwithrossyn&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
-
+  <img src="githubanner.JPG" width="100%"/>
 </div>
 
----
+<br>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-andr%C3%A9s-jerez-pinz%C3%B3n-5437352a7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@sergiojerez609" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@sergio03jerez" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sergio03jerez" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:sergio03jerez@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p align="left">
-<a href="https://github.com/AndroidWithRossyn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-  
-<span style="color:#40c463; font-family: Roboto, sans-serif;"><b>Note: </b>My public work doesn’t fully reflect my experience or skill level. I share it to document what I’ve learned and to help others with useful resources. 
-My true work is in private repos.</span>  
+<br>
+
+<h2 align="center"> <em>About me</em></h2>
+
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
+
+<p>
+  Hello There! <em><b>I'm Sergio Jerez</b></em>, a SENA student in Software Analysis and Development Technology. I am 19 years old, from Colombia, and I am entering the world of programming. I enjoy learning new technologies, building digital marketing projects, and developing web and mobile apps using tools like JavaScript, TypeScript, React, PHP, and Flutter.
+</p>
+
+<br/>
+
+<p align="center">
+   <em><b>🎓 Studying Software Analysis and Development at SENA</b></em> <br/>
+   <em><b>💻 Working on freelance projects and digital marketing solutions</b></em><br/>
+   <em><b>📱 Building mobile and web apps with Flutter and React</b></em><br/>
+   <em><b>📚 Reading finance and business books in my free time</b></em><br/>
+</p>
+
+<br/>
+<br/>
+<h2 align="center"> <em>Technologies</em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
