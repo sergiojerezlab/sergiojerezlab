@@ -58,3 +58,8 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.s3.uzh.ch/api?username=serjiojerezlab&theme=nightOwl" alt="Isometric Commit Calendar" width="100%" />
+</div>
