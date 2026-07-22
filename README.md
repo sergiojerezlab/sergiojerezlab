@@ -8,7 +8,7 @@
 
 <h2 align="center">Acerca de mí</h2>
 
-<img align="right" width="350" src="Banner.png" alt="Sergio Jerez"/>
+<img align="right" width="350" src="img_1.jpg" alt="Sergio Jerez"/>
 
 <p align="left">
 Soy <strong>Ingeniero de Software</strong> y fundador de proyectos tecnológicos. Comparto el desarrollo de proyectos personales y empresariales, casos reales, marketing digital, inteligencia artificial, programación, tutoriales y el detrás de cámaras de cómo construyo productos y negocios digitales.
