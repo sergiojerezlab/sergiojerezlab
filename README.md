@@ -1,22 +1,45 @@
-<!-- header -->
-<a href="Banner.png">
-  <img width="100%" src="Banner.png" alt="Banner" />
-</a>
+<!-- Banner -->
+<p align="center">
+  <img src="Banner.png" width="100%" alt="Banner">
+</p>
 
+<h1 align="center">Hola, soy Sergio Jerez</h1>
 
+<p align="center">
+Ingeniero de Software • Fundador de Proyectos Tecnológicos
+</p>
 
+<p align="center">
+  <a href="http://portafolio-sergiojerez.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://wa.me/573018593871" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@sergiojerezlab" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-Social-000000?logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sergiojerezlab" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Social-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@sergiojerezlab" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/sergiojerezlab" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Social-1877F2?logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://github.com/joshuathadi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repositorios-121011?logo=github&logoColor=white" />
+  </a>
+</p>
 
-# Hola, soy Sergio Jerez
+## Acerca de mí
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-## Conoce sobre mí
+<img align="right" width="300" src="TU_IMAGEN.png" alt="Sergio Jerez"/>
 
 Soy **Ingeniero de Software** y fundador de proyectos tecnológicos. Comparto el desarrollo de proyectos personales y empresariales, casos reales, marketing digital, inteligencia artificial, programación, tutoriales y el detrás de cámaras de cómo construyo productos y negocios digitales.
 
-### Contenido
+### Lo que comparto
 
 - **Proyectos de Software:** Aplicaciones, sistemas y herramientas desarrolladas con tecnologías modernas.
 - **Soluciones Digitales:** Productos creados para resolver necesidades reales mediante tecnología.
@@ -25,17 +48,7 @@ Soy **Ingeniero de Software** y fundador de proyectos tecnológicos. Comparto el
 - **Tutoriales:** Guías, ejemplos y contenido sobre programación y desarrollo de software.
 - **Proceso de Creación:** Desde la idea inicial hasta el desarrollo y la mejora continua de cada proyecto.
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="TU_IMAGEN.png" width="300" alt="Sergio Jerez">
-
-</td>
-</tr>
-</table>
-
----
+<br clear="right"/>
 
 ## Formación Académica
 
@@ -43,46 +56,10 @@ Soy **Ingeniero de Software** y fundador de proyectos tecnológicos. Comparto el
   - Ingeniería de Software *(Promoción 2026)*
 
 - **SENA – Centro Industrial y de Aviación**
-  - *(Agrega aquí el nombre del programa)* *(Promoción 2025)*
+  - Tecnólogo en Análisis y Desarrollo de Software *(Promoción 2025)*
 
 - **Institución Educativa Colmercedes – Lebrija**
   - Bachiller Académico *(Promoción 2022)*
-
----
-
-## Conecta conmigo
-
-<div align="center">
-
-<a href="http://portafolio-sergiojerez.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portafolio-Vercel-000000?logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://wa.me/573018593871" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="https://www.tiktok.com/@sergiojerezlab" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-Social-000000?logo=tiktok&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/sergiojerezlab" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Social-E4405F?logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/@sergiojerezlab" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/sergiojerezlab" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-Social-1877F2?logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://github.com/joshuathadi" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Repositorios-121011?logo=github&logoColor=white" />
-</a>
-
-</div>
 
 
 
