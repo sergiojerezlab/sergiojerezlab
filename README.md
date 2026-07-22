@@ -29,17 +29,15 @@
 
 <img align="right" width="350" src="Banner.png" alt="Sergio Jerez"/>
 
-<div align="center">
+<p align="left">
+Soy <strong>Ingeniero de Software</strong> y fundador de proyectos tecnológicos. Comparto el desarrollo de proyectos personales y empresariales, casos reales, marketing digital, inteligencia artificial, programación, tutoriales y el detrás de cámaras de cómo construyo productos y negocios digitales.
+</p>
 
-Soy **Ingeniero de Software** y fundador de proyectos tecnológicos. Comparto el desarrollo de proyectos personales y empresariales, casos reales, marketing digital, inteligencia artificial, programación, tutoriales y el detrás de cámaras de cómo construyo productos y negocios digitales.
-
-<br>
-
-- 🎓 **Universidad Tecnológica del Oriente** - Ingeniería de Software
-- 🎓 **SENA** - Tecnólogo en Análisis y Desarrollo de Software
-- 🏫 **Institución Educativa Colmercedes** - Bachiller Académico
-
-</div>
+<p align="center">
+🎓 <b>Universidad Tecnológica del Oriente</b> - Ingeniería de Software<br>
+🎓 <b>SENA</b> - Tecnólogo en Análisis y Desarrollo de Software<br>
+🏫 <b>Institución Educativa Colmercedes</b> - Bachiller Académico
+</p>
 
 <br clear="right"/>
 
