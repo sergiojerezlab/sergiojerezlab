@@ -1,31 +1,7 @@
-<!-- Header Wave (Commented Out)
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
-</div>
--->
-
-<!-- Footer Wave (Commented Out)
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
-
-<!-- MasterHead -->
+<!-- header -->
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
   <img width="100%" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
 </a>
-
-<!-- Greeting -->
-<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
 
 
 
@@ -84,13 +60,6 @@
 
 <br>
 
-<!-- GitHub Status -->
-<!--<h3 align="center">🌱 GitHub Status</h3>
-<div align="center">
-   <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> 
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="." />
-</div>-->
 
 
 
@@ -163,19 +132,13 @@
 
 
 
-<!-- Support -->
-<h3 align="center">💰 Support Me</h3>
+<!-- contacto -->
+<h3 align="center">Contactarme</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/joshuathadi">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
   </a>
 </p>
 
-<!-- Ending -->
+<!-- img footer -->
 <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-
-<p align="center">
-  ⚠️ This README is uniquely designed by <strong>@JoshuaThadi.</strong>
-</p>
